@@ -1,7 +1,7 @@
 # il2-watchdog
 Watchdog daemon written in C for linux using inotify library
 
-![alt text](https://github.com/fl4vus/il2-watchdog/il2_sturmovik.jpg?raw=true)
+![alt text](https://github.com/fl4vus/il2-watchdog/blob/main/il2_sturmovik.jpg?raw=true)
 
 The daemon runs in background while wathcing a file specified with:
 ./il2wd FILEPATH
